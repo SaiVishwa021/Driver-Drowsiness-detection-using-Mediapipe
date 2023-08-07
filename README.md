@@ -14,3 +14,4 @@ eye movements, allowing for accurate detection of drowsiness patterns.
 Human errors, often due to drowsiness or distractions, contribute significantly to road accidents.
 By providing automated alerts, the project minimizes the chances of human error caused by impaired attention or reaction times.
 
+![image](https://github.com/SaiVishwa021/Driver-Drowsiness-detection-using-Mediapipe/assets/114056075/42522d46-c915-4619-8600-d76038862e3e)
