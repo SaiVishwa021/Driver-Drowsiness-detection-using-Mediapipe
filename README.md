@@ -1,5 +1,7 @@
 # Driver-Drowsiness-detection-using-Mediapipe
 
+Driving for extended periods can be tiresome and lead to drowsiness, increasing the risk of nodding off. To tackle this issue, we'll develop a drowsy driver detection system using Python, leveraging Mediapipe's Face Mesh solution and the Eye Aspect Ratio formula. Our objective is to build a reliable application that can detect when a driver's eyes remain closed for an extended duration, providing timely alerts to prevent potential accidents.
+
 Leveraging the power of MediaPipe, I have developed a sophisticated system that 
 accurately identifies signs of drowsiness in drivers in real-time.
 
