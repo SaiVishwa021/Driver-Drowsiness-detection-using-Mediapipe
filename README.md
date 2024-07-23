@@ -30,5 +30,12 @@ The heart of this project lies in the implementation of MediaPipe, a powerful op
    ```bash
    git clone https://github.com/SaiVishwa021/Driver-Drowsiness-detection-using-Mediapipe.git
    ```
-   
+2. Locate the correct directory
+   ```bash
+   cd Driver-Drowsiness-detection-using-Mediapipe-in-Python
+   ```
+3. Run the file using the code
+   ```bash
+   python drowsy_detection.py
+   ```
    
