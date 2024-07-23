@@ -28,5 +28,7 @@ The heart of this project lies in the implementation of MediaPipe, a powerful op
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Driver-Drowsiness-Detection-Using-Mediapipe.git
-   cd Driver-Drowsiness-Detection-Using-Mediapipe
+   git clone https://github.com/SaiVishwa021/Driver-Drowsiness-detection-using-Mediapipe.git
+   ```
+   
+   
