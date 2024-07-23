@@ -38,4 +38,13 @@ The heart of this project lies in the implementation of MediaPipe, a powerful op
    ```bash
    python drowsy_detection.py
    ```
-   
+
+## **Contribution**
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.
+
+## **Acknowledgements**
+
+**Mediapipe** for providing an excellent open-source framework for face and hand tracking.
+The Python community for their invaluable resources and libraries.
+
