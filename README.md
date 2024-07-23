@@ -34,7 +34,11 @@ The heart of this project lies in the implementation of MediaPipe, a powerful op
    ```bash
    cd Driver-Drowsiness-detection-using-Mediapipe-in-Python
    ```
-3. Run the file using the code
+3. Install the required dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. Run the file using the code
    ```bash
    python drowsy_detection.py
    ```
